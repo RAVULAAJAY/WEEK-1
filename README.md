@@ -1,4 +1,4 @@
-# 🗑️ Garbage Classification using Deep Learning
+# 🗑️ Garbage Classification using CNN
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
@@ -335,5 +335,3 @@ If you find this project helpful, please consider giving it a star ⭐
 [![Star History](https://img.shields.io/github/stars/yourusername/garbage-classification?style=social)](https://github.com/yourusername/garbage-classification)
 
 ---
-
-**Made with ❤️ for a cleaner planet 🌍**
