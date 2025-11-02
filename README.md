@@ -278,14 +278,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Your Name**
@@ -303,35 +295,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
-
-For questions, issues, or suggestions:
-- Open an issue on GitHub
-- Email: your.email@example.com
-- Discord: [Join our community](https://discord.gg/yourlink)
-
----
-
-## 📊 Citation
-
-If you use this project in your research or work, please cite:
-
-```bibtex
-@misc{garbage_classification_2025,
-  author = {Your Name},
-  title = {Garbage Classification using Deep Learning},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/garbage-classification}
-}
-```
-
----
-
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star ⭐
-
-[![Star History](https://img.shields.io/github/stars/yourusername/garbage-classification?style=social)](https://github.com/yourusername/garbage-classification)
-
----
